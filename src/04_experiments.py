@@ -81,7 +81,7 @@ if __name__ == "__main__":
     # print("Generating Lorenz Data...")
     # _, lorenz_data = generate_lorenz_data(dt=0.01, num_steps=5000)
     
-    # Creiamo un finto connettoma per testare il codice senza i dati pesanti
+    # Dummy connectome to test the code
     # dummy_connectome = nx.erdos_renyi_graph(n=250, p=0.1)
     
     # damage_steps = [0.0, 0.1, 0.2, 0.3, 0.5, 0.7, 0.9]
